@@ -9,10 +9,7 @@ export const Footer = () => {
         <div>
             <input type="text" placeholder='Enter your phone number' className='text-gray-800 sm:w-72 w-full sm:mr-4 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline-none'
             />
-            <button
-            className='text-gray-800 sm:w-72 w-full sm:mr-5 mr-1 lg:mb-0 mb-4 py-2.5 rounded px-2 focus:outline-none'
-            >
-            </button>
+            
         </div>
         </div>
        
